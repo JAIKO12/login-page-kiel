@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "915380098082",
+    "project_id": "pemesanan-makanan-kiel",
+    "storage_bucket": "pemesanan-makanan-kiel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915380098082:android:3db8e4d2fee0109f30e67b",
+        "android_client_info": {
+          "package_name": "com.example.login_page_kiel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmtTgbWD7BAsktjymwyjYx7j3cXRjkihE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915380098082:android:16a1b1401c207d9030e67b",
+        "android_client_info": {
+          "package_name": "com.example.login_pemesanan_makanan_kiel2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmtTgbWD7BAsktjymwyjYx7j3cXRjkihE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
